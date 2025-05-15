@@ -11,7 +11,7 @@ class Shapes {
     }
     Shapes(int side){ // for square
         this.side = side;
-        this.area = side * side;
+        this.area = side*side;
     }
     Shapes(int length,int breadth){ // for rectangle
         this.length =length;
